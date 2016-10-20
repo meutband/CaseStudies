@@ -1,5 +1,5 @@
 # Case_Studies
-Case Studies that I worked as part of the Galvanize DSI. I am currently working on building this repositories. All the origial repositories with the work that I did is in my list of reposititories. Thanks for your patience.
+Case Studies that I worked as part of the Galvanize DSI. I am currently working on building this repositories. All the original repositories with the work that I did is in my list of reposititories. Thanks for your patience.
 
 #1 Regression Case Study
 
