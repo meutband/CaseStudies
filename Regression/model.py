@@ -43,4 +43,4 @@ if __name__ == '__main__':
     #Import solutions to calculate RMSLE of predictions and print RMSLE
     test_solution = pd.read_csv('test_soln.csv')
     test_solution.set_index('SalesID')
-    print score(test_solution.SalePrice, pred)
+    print score(test_solution.SalePrice, pred) #0.326191125583
