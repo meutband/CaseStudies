@@ -1,5 +1,4 @@
-The train csv file too big for the repository, github wont let it upload.
-
+All of the data in the zip file.
 
 #Regression Case Study
 
